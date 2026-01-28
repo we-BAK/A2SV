@@ -1,0 +1,1 @@
+{"name":"Local: Two_sum","url":"/home/kidist/A2SV/Two_sum.py","tests":[{"id":1769548350706,"input":"nums = [2,7,11,15], target = 9","output":"[0,1]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kidist/A2SV/Two_sum.py","group":"local","local":true}
