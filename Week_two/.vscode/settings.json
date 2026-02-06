@@ -1,0 +1,5 @@
+{
+    "C_Cpp.copilotHover": "disabled",
+    "github.copilot.chat.agent.runTasks": false,
+    "github.copilot.chat.fixTestFailure.enabled": false
+}
